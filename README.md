@@ -1,5 +1,10 @@
-### Hi there 👋
-
+### 👋 Hi there, I’m Ahmed
+### 👀 I’m interested in Data Scientist in International Relation
+### 🌱 I’m currently doing Master Data Science
+### 💞️ I’m looking to collaborate on Data Scientist Projects
+### ⚡ Motto: If at first, you don’t succeed; call it version 1.0
+### 😄 Joke: A SQL query walks into a resturant, walks up to two tables, and asks, “Can I join you?”
+### 📫 How to reach me: ahvshim@gmail.com
 <!--
 **ahvshim/ahvshim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
