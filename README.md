@@ -4,7 +4,7 @@
 - 👀 I’m interested in Data Scientist in International Relation, BI A.I. and Machine Learning projects including CV, NLP..etc.
 - 🌱 I’m currently doing Master's in Data Science.
 - 💞️ I’m looking to collaborate on Data Scientist Projects
-- 💬 I’m looking to collaborate with **Beginner-friendly data scientists on Writing Documentation, Code-review, Python Scripts** and opportunities related to **Data Field**.
+- 💬 I’m looking to collaborate with **Beginner-friendly data scientists on Writing Documentation, Code-review, Python Scripts**.
 - ⚡ Motto: If at first, you don’t succeed; call it version 1.0
 - 😄 Joke: A SQL query walks into a resturant, walks up to two tables, and asks, “Can I join you?”
 - 📫 How to reach me: a.hvshim@gmail.com or taha-20@graduate.utm.my
