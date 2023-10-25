@@ -9,19 +9,30 @@
 - 😄 Joke: A SQL query walks into a resturant, walks up to two tables, and asks, “Can I join you?”
 - 📫 How to reach me: a.hvshim@gmail.com
 
+![](https://github.com/ahvshim/ahvshim/assets/126220185/8d44aff2-ecb7-4202-8432-e6f9b54acc08)
+<p align="center"> 
+ <a href="https://twitter.com/ahvshim" alt="Ahmed's twitter">
+   <img src="https://img.shields.io/badge/%20-Twitter-000000?logo=X&logoColor=white&style=for-the-badge" />
+ </a>
+ <a href="https://t.me/ahvshim" alt="Ahmed's telegram">
+   <img src="https://img.shields.io/badge/%20-Telegram-26A5E4?logo=Telegram&logoColor=white&style=for-the-badge" />
+ </a>
 
-![](https://komarev.com/ghpvc/?username=ahvshim)
-<!--
-**ahvshim/ahvshim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ <a href="https://github.com/ahvshim" alt="Ahmed's github">
+   <img src="https://img.shields.io/badge/%20-GitHub-black?logo=GitHub&logoColor=white&style=for-the-badge" />
+ </a>
+ <a href="https://www.linkedin.com/in/ahmed-salim-b73aa9200" alt="Ahmed's linkedin">
+   <img src="https://img.shields.io/badge/%20-LinkedIn-%230A66C2?logo=linkedin&logoColor=white&style=for-the-badge&link=https://www.linkedin.com/in/ahmed-salim-b73aa9200" />
+ </a>
+ <a href="https://ahvshim.github.io/" alt="Ahmed's Portfolio">
+   <img src="https://img.shields.io/badge/-Portfolio-333333?style=for-the-badge&logo=Me" />
+ </a>
+ </p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a>
+    <img src="https://komarev.com/ghpvc/?username=ahvshim" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
