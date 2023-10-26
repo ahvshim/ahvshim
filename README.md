@@ -1,7 +1,7 @@
 ![hello-i-m-Ahmed-welcome](https://github.com/ahvshim/ahvshim/assets/126220185/c163ff09-5901-4322-a471-e3f96c85d3ce)
 
 - 👋 Hi there, I’m Ahmed
-- 👀 I’m interested in Data Scientist in International Relation, BI A.I. and Machine Learning projects including CV, NLP..etc.
+- 👀 I’m interested in Data Scientist in International Relation, BI, AI. and Machine Learning projects including CV, NLP..etc.
 - 🌱 I’m currently doing Master's in Data Science.
 - 💞️ I’m looking to collaborate on Data Scientist Projects
 - 💬 I’m looking to collaborate with **Beginner-friendly data scientists on Writing Documentation, Code-review, Python Scripts**.
