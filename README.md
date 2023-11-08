@@ -7,7 +7,7 @@
 - 💬 I’m looking to collaborate with **Beginner-friendly data scientists on Writing Documentation, Code-review, Python Scripts**.
 - ⚡ Motto: If at first, you don’t succeed; call it version 1.0
 - 😄 Joke: A SQL query walks into a resturant, walks up to two tables, and asks, “Can I join you?”
-- 📫 How to reach me: a.hvshim@gmail.com or taha-20@graduate.utm.my
+- 📫 How to reach me: a.hvshim@gmail.com
 
 ![](https://github.com/ahvshim/ahvshim/assets/126220185/8d44aff2-ecb7-4202-8432-e6f9b54acc08)
 <p align="center"> 
