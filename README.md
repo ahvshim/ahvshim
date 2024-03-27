@@ -31,5 +31,7 @@
     <img src="https://komarev.com/ghpvc/?username=ahvshim" />
   </a>
 </p>
+<div align="center"><img src="https://github.com/ahvshim/ahvshim.github.io/assets/126220185/aff6dbfa-7287-4419-b304-85ded326ccc9" width="600" /></div>
+
 
 
