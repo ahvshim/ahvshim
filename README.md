@@ -31,7 +31,7 @@
     <img src="https://komarev.com/ghpvc/?username=ahvshim" />
   </a>
 </p>
-<div align="center"><img src="https://github.com/ahvshim/ahvshim.github.io/assets/126220185/aff6dbfa-7287-4419-b304-85ded326ccc9" width="600" /></div>
+<div align="center"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/126220185/317526141-6a56a8fa-a5ec-4c9c-8a30-27aa05200154.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240327%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240327T214356Z&X-Amz-Expires=300&X-Amz-Signature=577be9fa63558dd0a39cd87ea8d1649086deab9c4f3a396d578aef8f11b7caf1&X-Amz-SignedHeaders=host&actor_id=126220185&key_id=0&repo_id=606843749" width="600" /></div>
 
 
 
